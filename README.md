@@ -1,6 +1,5 @@
 # Евгений Таранченко
 
-**Data Scientist (стажёр)**  
 Москва · eugene.taranchenko@gmail.com · Telegram: @yellow_gold_tea
 
 ---
